@@ -1,22 +1,5 @@
 [
   {
-    "id": 2941,
-    "opponent": "Raja Casablanca",
-    "opponent_translations": null,
-    "opponent_logo": null,
-    "match_date": "2026-06-03",
-    "match_time": "21:00",
-    "venue": "away",
-    "venue_translations": null,
-    "status": "upcoming",
-    "result": null,
-    "score_home": null,
-    "score_away": null,
-    "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
-  },
-  {
-    "id": 2915,
     "opponent": "CR Khemis Zemamra",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -29,10 +12,9 @@
     "score_home": 1,
     "score_away": 0,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2916,
     "opponent": "Wydad Fes",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -45,10 +27,9 @@
     "score_home": 3,
     "score_away": 1,
     "competition": "Cup - Round of 32",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2917,
     "opponent": "CODM Meknes",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -61,10 +42,9 @@
     "score_home": 0,
     "score_away": 1,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2918,
     "opponent": "US Touarga",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -77,10 +57,9 @@
     "score_home": 4,
     "score_away": 3,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2919,
     "opponent": "Union Yacoub El Mansour",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -93,10 +72,9 @@
     "score_home": 1,
     "score_away": 1,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2920,
     "opponent": "Kawkab Marrakech",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -109,10 +87,9 @@
     "score_home": 0,
     "score_away": 1,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2921,
     "opponent": "Olympique Dcheira",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -125,10 +102,9 @@
     "score_home": 2,
     "score_away": 1,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2922,
     "opponent": "AS Far Rabat",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -141,10 +117,9 @@
     "score_home": 0,
     "score_away": 0,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2923,
     "opponent": "AS Far Rabat",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -157,10 +132,9 @@
     "score_home": 1,
     "score_away": 0,
     "competition": "CAF Champions League - Semi Finals",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2924,
     "opponent": "AS Far Rabat",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -173,10 +147,9 @@
     "score_home": 2,
     "score_away": 0,
     "competition": "CAF Champions League - Semi Finals",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2925,
     "opponent": "Maghreb Fès",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -189,10 +162,9 @@
     "score_home": 1,
     "score_away": 1,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2926,
     "opponent": "Olympique Safi",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -205,10 +177,9 @@
     "score_home": 1,
     "score_away": 1,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2927,
     "opponent": "Maghreb Fès",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -221,10 +192,9 @@
     "score_home": null,
     "score_away": null,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2928,
     "opponent": "Olympique Safi",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -237,10 +207,9 @@
     "score_home": null,
     "score_away": null,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2929,
     "opponent": "Al Hilal Omdurman",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -253,10 +222,9 @@
     "score_home": 0,
     "score_away": 1,
     "competition": "CAF Champions League - Quarter Finals",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2930,
     "opponent": "Al Hilal Omdurman",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -269,10 +237,9 @@
     "score_home": 1,
     "score_away": 1,
     "competition": "CAF Champions League - Quarter Finals",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2931,
     "opponent": "El Jadida",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -285,10 +252,9 @@
     "score_home": 2,
     "score_away": 1,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2932,
     "opponent": "Hassania Agadir",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -301,10 +267,9 @@
     "score_home": 2,
     "score_away": 1,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2933,
     "opponent": "Wydad AC",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -317,10 +282,9 @@
     "score_home": 1,
     "score_away": 0,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2934,
     "opponent": "Raja Casablanca",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -333,10 +297,9 @@
     "score_home": 1,
     "score_away": 1,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2935,
     "opponent": "FUS Rabat",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -349,10 +312,9 @@
     "score_home": 1,
     "score_away": 0,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2936,
     "opponent": "CR Khemis Zemamra",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -365,10 +327,9 @@
     "score_home": 1,
     "score_away": 2,
     "competition": "Botola Pro",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2937,
     "opponent": "Rivers United",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -381,10 +342,9 @@
     "score_home": 3,
     "score_away": 0,
     "competition": "CAF Champions League - Group Stage",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2938,
     "opponent": "Power Dynamos",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -397,10 +357,9 @@
     "score_home": 2,
     "score_away": 0,
     "competition": "CAF Champions League - Group Stage",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2939,
     "opponent": "Pyramids",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -413,10 +372,9 @@
     "score_home": 3,
     "score_away": 0,
     "competition": "CAF Champions League - Group Stage",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
   },
   {
-    "id": 2940,
     "opponent": "Pyramids",
     "opponent_translations": null,
     "opponent_logo": null,
@@ -429,6 +387,21 @@
     "score_home": 0,
     "score_away": 0,
     "competition": "CAF Champions League - Group Stage",
-    "created_at": "2026-05-31 07:00:04"
+    "created_at": "2026-05-31 13:47:45"
+  },
+  {
+    "opponent": "Raja Casablanca",
+    "opponent_translations": null,
+    "opponent_logo": null,
+    "match_date": "2026-06-03",
+    "match_time": "21:00",
+    "venue": "away",
+    "venue_translations": null,
+    "status": "upcoming",
+    "result": null,
+    "score_home": null,
+    "score_away": null,
+    "competition": "Botola Pro",
+    "created_at": "2026-05-31 13:47:45"
   }
 ]
