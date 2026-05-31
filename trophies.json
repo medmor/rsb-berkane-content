@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "البطولة الوطنية",
+    "name_translations": "{\"ar\":\"البطولة الوطنية\",\"fr\":\"Championnat National\",\"en\":\"National Championship\"}",
+    "year": 2022,
+    "image": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=400",
+    "created_at": "2026-03-20 01:17:48"
+  },
+  {
+    "id": 2,
+    "name": "كأس العرش",
+    "name_translations": "{\"ar\":\"كأس العرش\",\"fr\":\"Coupe du Trône\",\"en\":\"Throne Cup\"}",
+    "year": 2022,
+    "image": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=400",
+    "created_at": "2026-03-20 01:17:48"
+  }
+]
